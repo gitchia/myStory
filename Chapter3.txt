@@ -1,1 +1,3 @@
 It is not that I have to learn exactly how to code in a different language, but I need to know who the everything works together to build a software. Meaning that, I need to know, What need to be done, what kind of processes need to be involve in software development. 
+I have come to understand about what need to learn since I worked for my previous company in IT software outsourcing services.
+
